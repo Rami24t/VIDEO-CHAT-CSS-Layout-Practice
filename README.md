@@ -1,6 +1,6 @@
 # My solution
 
-My solution in live Version: https://rami24t.github.io/VIDEO-CHAT-CSS-Layout-Practice/
+My (fully responsive) solution in live Version: https://rami24t.github.io/VIDEO-CHAT-CSS-Layout-Practice/
 
 
 # Zoom Session
