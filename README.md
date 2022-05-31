@@ -7,7 +7,7 @@ My solution in live Version: https://rami24t.github.io/VIDEO-CHAT-CSS-Layout-Pra
 
 Let's practice our layout skills by creating the page shown in the reference images below -
 
-#### Laptop
+#### Laptop / Kindle (Portrait)
 
 ![desktop](/assets/desktop.png)
 
