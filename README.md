@@ -1,3 +1,8 @@
+# My solution
+
+My solution in live Version: https://rami24t.github.io/VIDEO-CHAT-CSS-Layout-Practice/
+
+
 # Zoom Session
 
 Let's practice our layout skills by creating the page shown in the reference images below -
